@@ -9,27 +9,27 @@ The following test scenarios are covered:
 1. **Sign Up** – New user account creation with all required details.
 2. **Login** – Logging in with valid credentials.
 3. **Profile Update** – Editing account details (First Name, Last Name, Mobile, Gender) and saving changes.
-
+4. **Address module** – Add New Address (First Name, Last Name, Country (e.g., Bangladesh), Address, Division (e.g., Dhaka). City (e.g., Dhaka City), Optional: Apartment, Postal Code, Phone, Address Label Mark as and saving changes.
 ---
 
 ## 🚀 Test Flow
-### 1. Sign Up
+### 1. Sign Up module
 - Navigate to the signup page.
 - Fill in first name, last name, email, password, and confirm password.
 - Accept updates checkbox.
 - Click **Create Account**.
 
-### 2. Login
+### 2. Login module
 - Go to login page.
 - Enter valid email and password.
 - Click **Login** and verify successful login.
 
-### 3. Profile Update
+### 3. Profile Update module
 - Navigate to **Account Details**.
 - Update **First Name**, **Last Name**, **Mobile Number**, and **Gender**.
 - Click **Save Changes** and verify success message.
 
-### 4. Add & Edit Address
+### 4. Address module
 - Navigate to **Addresses** from the left sidebar.
 - Click **Add New Address**.
 - Fill in the following fields:
